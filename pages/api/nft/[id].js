@@ -1,10 +1,10 @@
 import { NextApiRequest, NextApiResponse } from "next";
 const testFolder = '../';
 const fs = require('fs');
-import content from './_metadata1.json';
-import Web3 from "web3";
-import Web3Modal from "web3modal";
-import { contract_address, contract_abi, buy_price, speedy_nodes} from '../../../config';
+// import content from './_metadata1.json';
+// import Web3 from "web3";
+// import Web3Modal from "web3modal";
+// import { contract_address, contract_abi, buy_price, speedy_nodes} from '../../../config';
 
 export default function getNftById(req, res){
     //let rawdata = fs.readFileSync(content);
