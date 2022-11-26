@@ -292,7 +292,7 @@ export default function Home() {
                       include special airdrops of limited edition FanFuse NFT’s.</h3> */}
                         <ul id="abs">
                           <li><p>Bryan Bresee will be our first NFT athlete.</p></li>
-                          <li><p>Holders of the NFT will have opportunity to win exclusive Bryan Bresee signed merchandise.</p></li>
+                          <li><p>Holders of the NFT will have the opportunity to win exclusive Bryan Bresee signed merchandise.</p></li>
                           <li><p>Every week, these exclusive prizes will be raffled off to NFT holders.</p></li>
                           <li><p>Owning the NFT for an increased duration allows holders to stay in contention for weekly raffles.</p></li>
                           <li><p>By collecting more, your odds of winning exclusive prices increase proportionally.</p></li>
@@ -315,6 +315,7 @@ export default function Home() {
                         <li><p>Autographed Footballs</p></li>
                         <li><p>Autographed Mini Helmets</p></li>
                         <li><p>Autographed 24x36 Posters (laminated physical copy of NFT)</p></li>
+                        <li><p>Every holder will be able to join the private discord channel with Bryan Bresee</p></li>
                       </ul>
                     </div>
                   </div>
@@ -488,22 +489,11 @@ export default function Home() {
                 <div data-accordion-component="Accordion" className="accordion">
                   <div data-accordion-component="AccordionItem" className="accordion__item">
                     <div data-accordion-component="AccordionItemHeading" role="heading" className="accordion__heading" aria-level={3}>
-                      <div className="accordion__button" style={{fontStyle: 'normal', fontWeight: 400, fontSize: '18px', lineHeight: '36px', letterSpacing: '-0.011em'}} id="accordion__heading-raa-0" aria-disabled="false" aria-expanded="false" aria-controls="accordion__panel-raa-0" role="button" tabIndex={0} data-accordion-component="AccordionItemButton">what are platinum passes?</div>
-                    </div>
-                    <div data-accordion-component="AccordionItemPanel" className="accordion__panel" id="accordion__panel-raa-0" hidden>
-                      <p className="faq-body-content" style={{fontStyle: 'normal', fontWeight: 'normal', fontSize: '16px', lineHeight: '200%', paddingLeft: '23px'}}>
-                        Platinum Passes are a unique membership NFT to the Fan Fuse brand. With this NFT you will receive
-                        whitelists for every future athlete we make an NFT for. You will also receive discounts for mints
-                        and exclusive airdrops such as free merchandise</p>
-                    </div>
-                  </div>
-                  <div data-accordion-component="AccordionItem" className="accordion__item">
-                    <div data-accordion-component="AccordionItemHeading" role="heading" className="accordion__heading" aria-level={3}>
-                      <div className="accordion__button" style={{fontStyle: 'normal', fontWeight: 400, fontSize: '18px', lineHeight: '36px', letterSpacing: '-0.011em'}} id="accordion__heading-raa-1" aria-disabled="false" aria-expanded="false" aria-controls="accordion__panel-raa-1" role="button" tabIndex={0} data-accordion-component="AccordionItemButton">How can I get a platinum pass?</div>
+                      <div className="accordion__button" style={{fontStyle: 'normal', fontWeight: 400, fontSize: '18px', lineHeight: '36px', letterSpacing: '-0.011em'}} id="accordion__heading-raa-1" aria-disabled="false" aria-expanded="false" aria-controls="accordion__panel-raa-1" role="button" tabIndex={0} data-accordion-component="AccordionItemButton">How can I get a Bryan Bresee NFT?</div>
                     </div>
                     <div data-accordion-component="AccordionItemPanel" className="accordion__panel" id="accordion__panel-raa-1" hidden>
                       <p className="faq-body-content" style={{fontStyle: 'normal', fontWeight: 'normal', fontSize: '16px', lineHeight: '200%', paddingLeft: '23px'}}>
-                        You can acquire a pass through engaging in our discord or reposting on your social media.
+                        Uou can acquire an NFT through engaging in our discord or reposting on your social media.
                         Otherwise you can mint during the public sale or later purchase on opensea.
                       </p>
                     </div>
@@ -514,28 +504,8 @@ export default function Home() {
                     </div>
                     <div data-accordion-component="AccordionItemPanel" className="accordion__panel" id="accordion__panel-raa-2" hidden>
                       <p className="faq-body-content" style={{fontStyle: 'normal', fontWeight: 'normal', fontSize: '16px', lineHeight: '200%', paddingLeft: '23px'}}>
-                        The mint is TBA but we are aiming for early July of this year.
+                        The mint is TBA but we are aiming for late December.
                       </p>
-                    </div>
-                  </div>
-                  <div data-accordion-component="AccordionItem" className="accordion__item">
-                    <div data-accordion-component="AccordionItemHeading" role="heading" className="accordion__heading" aria-level={3}>
-                      <div className="accordion__button" style={{fontStyle: 'normal', fontWeight: 400, fontSize: '18px', lineHeight: '36px', letterSpacing: '-0.011em'}} id="accordion__heading-raa-3" aria-disabled="false" aria-expanded="false" aria-controls="accordion__panel-raa-3" role="button" tabIndex={0} data-accordion-component="AccordionItemButton">What are the funds raised being used for?</div>
-                    </div>
-                    <div data-accordion-component="AccordionItemPanel" className="accordion__panel" id="accordion__panel-raa-3" hidden>
-                      <p className="faq-body-content" style={{fontStyle: 'normal', fontWeight: 'normal', fontSize: '16px', lineHeight: '200%', paddingLeft: '23px'}}>
-                        We have the ability to sign several more athletes and will use the capital to expand the FanFuse
-                        brand.
-                      </p>
-                    </div>
-                  </div>
-                  <div data-accordion-component="AccordionItem" className="accordion__item">
-                    <div data-accordion-component="AccordionItemHeading" role="heading" className="accordion__heading" aria-level={3}>
-                      <div className="accordion__button" style={{fontStyle: 'normal', fontWeight: 400, fontSize: '18px', lineHeight: '36px', letterSpacing: '-0.011em'}} id="accordion__heading-raa-4" aria-disabled="false" aria-expanded="false" aria-controls="accordion__panel-raa-4" role="button" tabIndex={0} data-accordion-component="AccordionItemButton">When is Bryan Bresee’s NFT?</div>
-                    </div>
-                    <div data-accordion-component="AccordionItemPanel" className="accordion__panel" id="accordion__panel-raa-4" hidden>
-                      <p className="faq-body-content" style={{fontStyle: 'normal', fontWeight: 'normal', fontSize: '16px', lineHeight: '200%', paddingLeft: '23px'}}>
-                        We plan on launching his NFT about a month after the Platinum Pass drop.</p>
                     </div>
                   </div>
                   <div data-accordion-component="AccordionItem" className="accordion__item">
@@ -546,17 +516,6 @@ export default function Home() {
                     <div data-accordion-component="AccordionItemPanel" className="accordion__panel" id="accordion__panel-raa-5" hidden>
                       <p className="faq-body-content" style={{fontStyle: 'normal', fontWeight: 'normal', fontSize: '16px', lineHeight: '200%', paddingLeft: '23px'}}>
                         TBD</p>
-                    </div>
-                  </div>
-                  <div data-accordion-component="AccordionItem" className="accordion__item">
-                    <div data-accordion-component="AccordionItemHeading" role="heading" className="accordion__heading" aria-level={3}>
-                      <div className="accordion__button" style={{fontStyle: 'normal', fontWeight: 400, fontSize: '18px', lineHeight: '36px', letterSpacing: '-0.011em'}} id="accordion__heading-raa-5" aria-disabled="false" aria-expanded="false" aria-controls="accordion__panel-raa-5" role="button" tabIndex={0} data-accordion-component="AccordionItemButton">What does Whitelist mean?
-                      </div>
-                    </div>
-                    <div data-accordion-component="AccordionItemPanel" className="accordion__panel" id="accordion__panel-raa-5" hidden>
-                      <p className="faq-body-content" style={{fontStyle: 'normal', fontWeight: 'normal', fontSize: '16px', lineHeight: '200%', paddingLeft: '23px'}}>
-                        Think of Whitelist as getting access into the pre-sale or early access. This also guarantees you a
-                        spot to mint an NFT and pay cheaper ethereum gas fees compared to the public sale.</p>
                     </div>
                   </div>
                   <div data-accordion-component="AccordionItem" className="accordion__item">
