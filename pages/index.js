@@ -493,7 +493,7 @@ export default function Home() {
                     </div>
                     <div data-accordion-component="AccordionItemPanel" className="accordion__panel" id="accordion__panel-raa-1" hidden>
                       <p className="faq-body-content" style={{fontStyle: 'normal', fontWeight: 'normal', fontSize: '16px', lineHeight: '200%', paddingLeft: '23px'}}>
-                        Uou can acquire an NFT through engaging in our discord or reposting on your social media.
+                        You can acquire an NFT through engaging in our discord or reposting on your social media.
                         Otherwise you can mint during the public sale or later purchase on opensea.
                       </p>
                     </div>
